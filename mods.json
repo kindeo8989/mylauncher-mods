@@ -1,0 +1,14 @@
+{
+  "mods": [
+    {
+      "fileName": "epicfight-forge-20.9.7-1.20.1.jar",
+      "sha1": "a58e58a2064c7c605011c3cec15a133f38777bbb",
+      "url": ""
+    },
+    {
+      "fileName": "rpgcore-0.10.2.jar",
+      "sha1": "bd01e375499feb7581dfaaf75fbb62f5bf63fa33",
+      "url": ""
+    }
+  ]
+}
