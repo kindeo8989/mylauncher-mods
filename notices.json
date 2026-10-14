@@ -1,0 +1,16 @@
+{
+  "notices": [
+    {
+      "tag": "공지",
+      "title": "MyLauncher 베타 테스트 시작",
+      "image": null,
+      "url": "https://github.com/kindeo8989/mylauncher-mods/releases/latest"
+    },
+    {
+      "tag": "업데이트",
+      "title": "RPG 모드팩 0.16 적용",
+      "image": null,
+      "url": null
+    }
+  ]
+}
