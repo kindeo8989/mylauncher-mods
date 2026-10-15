@@ -10,9 +10,9 @@
     },
     {
       "tag": "업데이트",
-      "title": "RPG 모드팩 0.16.9 적용",
+      "title": "RPG 모드팩 0.17 적용",
       "date": "2026-10-15",
-      "content": "RPG 모드팩이 0.16.9 버전으로 올라갔습니다.\n\n- rpgcore 0.16\n- GeckoLib 4.7.4 추가\n- Epic Fight 20.14.17\n\n게임 시작을 누르면 자동으로 받아집니다.",
+      "content": "RPG 모드팩이 0.17 버전으로 올라갔습니다.\n\n- rpgcore 0.16\n- GeckoLib 4.7.4 추가\n- Epic Fight 20.14.17\n\n게임 시작을 누르면 자동으로 받아집니다.",
       "image": null,
       "url": "https://github.com/a01035261742-collab/rpg-mod-core/releases/latest"
     }
